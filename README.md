@@ -1,5 +1,5 @@
 # Unit-Economics-Calculation
-##Data
+## Data
 - customer_lifespan_data: https://docs.google.com/spreadsheets/d/1by8tPHwOnq3uKYK2E7sA9VBUYoPM4p1Rnrm_Ss9cyHI/edit?usp=sharing
 - daily_marketing_spendings: https://docs.google.com/spreadsheets/d/1AZOIThOV4P-0eYDge53ZwumVkfkHoYPWxst3k3Bv87c/edit?usp=sharing
 - Monthly expenses: https://docs.google.com/spreadsheets/d/10OGbaywwMIqKgnPGy8VDvpBVtjyqln47iYa2lFhI9Mw/edit?usp=sharing
